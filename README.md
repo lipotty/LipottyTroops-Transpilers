@@ -1,0 +1,2 @@
+# LipottyTroops-Transpilers
+骑砍2在RecruitVolunteersFromNotable原方法中用Transpilers在GetRecruitVolunteerFromIndividual被调用之前插入判断逻辑
